@@ -18,6 +18,7 @@ a: alpha parameter value
 r: Name of the reference/template image
 
 COMMAND: 
-   gcc RFCC_vM.c -lm -o rfcc
+
+   1) gcc RFCC_vM.c -lm -o rfcc
    
-   ./rfcc -f ImageNames.txt -c 3 -p parameters.txt -m 2.0 -s 3 -a 0.1 -r Template.ppm
+   2) ./rfcc -f ImageNames.txt -c 3 -p parameters.txt -m 2.0 -s 3 -a 0.1 -r Template.ppm
