@@ -2,7 +2,7 @@
 Rough-Fuzzy Circular Clustering
 
 ### Article: 
-P. Maji and S. Mahapatra, "Circular Clustering in Fuzzy Approximation Spaces for Color Normalization of Histological Images," in *IEEE Transactions on Medical Imaging*, pp. 1--11, 2020.
+P. Maji and S. Mahapatra, "Circular Clustering in Fuzzy Approximation Spaces for Color Normalization of Histological Images," in *IEEE Transactions on Medical Imaging*, pp. 1735--1745, 2020.
 doi: 10.1109/TMI.2019.2956944
 
 URL: https://ieeexplore.ieee.org/document/8918273
